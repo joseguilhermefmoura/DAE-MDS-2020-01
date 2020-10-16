@@ -27,7 +27,7 @@ main {
 	height: 100%;
 }
 #navigation-links {
-	max-height: 100px;
+	max-height: 200px !important;
 	overflow-y: scroll;
 }
 #post-body{
